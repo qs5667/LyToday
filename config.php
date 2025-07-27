@@ -10,7 +10,7 @@
  */
 
 $config = array(
-    "title" => "LyToday视界", //网站标题
+    "title" => "60s视界", //网站标题
     "theme" => "theme/default", //网站主题
     "day60s" => true, //显示每天60秒读懂世界(bool)
     "history" => true, //显示历史上的今天(bool)
